@@ -42,7 +42,7 @@
         <nav class="navbar" style="z-index: 3">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="{{ asset('asset-s/image/page1/LOGO.png') }}" class="my-3 ms-3" alt="" width="120" height="85" style="z-index: 3">
+                    <img src="{{ asset('asset-s/image/page1/LOGO.png') }}" class="my-3 ms-3" alt="" width="100" height="85" style="z-index: 3">
                 </a>
             </div>
         </nav>
