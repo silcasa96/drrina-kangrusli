@@ -49,8 +49,8 @@
         <header class="">
             <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                 <div class="row">
-                    <div class="col-md-6 d-flex align-items-center">
-                        <div class="text-center text-white">
+                    <div class="col-md-6 d-flex justify-content-center align-items-center">
+                        <div class=" col-md-5 text-center text-white">
                             <h2 class="mx-auto my-0 text-uppercase" title="title">MAHA <br> DOELOER</h2>
                             <h6 class="text-white-50 mx-auto mt-2 mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, saepe, perspiciatis ad error atque nisi, alias vero recusandae impedit eaque neque harum. Eius dignissimos expedita, dolorem vitae nobis at tempore.</h6>
                         </div>

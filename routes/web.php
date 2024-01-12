@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BannerController;
+use App\Http\Controllers\MasterController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,4 +25,4 @@ Route::post('/post_master/{page}/{id}', 'MasterController@index_post')->name('ma
 Route::get('/banner/{page}/{id}', 'BannerController@index')->name('banner');
 Route::post('/post_banner/{page}/{id}', 'BannerController@index_post')->name('banner_post');
 
-	
+
